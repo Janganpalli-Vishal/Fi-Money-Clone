@@ -1,0 +1,267 @@
+.parent{
+    background-color:rgb(62, 62, 62) ;
+    padding-left: 10px ;
+    padding-right: 10px;    
+}
+.navbar{
+    background-color: rgb(62, 62, 62);   
+}
+img{
+    padding-bottom: 20px;
+    padding-left: 75px;
+    margin-right: 140px;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 18px;
+    font-size: 1.1ch ;
+    color: rgb(212, 209, 209);
+    font-family: verdana;
+        
+}
+a {
+    text-decoration: none;
+    color: rgb(185,185,185);
+    font-size: 3ch ;
+
+    
+}
+a:hover{
+    color:rgb(0, 184, 153);
+}
+
+
+button{
+    height: 40px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 15px;
+    color: white;
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.t1{
+    font-family: verdana; 
+    font-size: 0.7cm;
+    text-align: left;
+    max-width: 644px;
+    padding-left: 90px;
+    padding-top: 60px;
+    color: rgb(185,185,185);
+    
+}
+.download1{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+.download1 img{
+    margin: 0px;
+    padding: 5px;
+}
+.d1{
+    width: 175px;
+    height: 55px;
+}
+.d2{
+    width: 175px;
+    height: 55px;
+}
+
+.v1{
+    padding-right: 200px;
+    padding-top: 35px;
+}
+.parent2{
+    text-align:center;
+    font-size: 0.7cm;
+    font-family: verdana;
+    max-width: 770px;
+    margin: auto;
+    color: rgb(51, 51, 51);
+    padding-top: 60px color rgb(245, 245, 245);
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 120px;
+    color: rgb(141,141,141);
+    margin-bottom: 170px;   
+}
+.i2{
+    height: 520px;
+    width: 610px;  
+}
+
+.main3{
+    width: 740px;
+    font-size: 0.7cm;
+    font-family: verdana;
+    text-align: center;
+    margin: auto; 
+    color: rgb(51, 51, 51);
+
+}
+.main3 p{
+    font-size:24px; 
+    color: rgb(141,141,141) ;
+}
+
+.main5{
+    width: 740px ;
+    padding-top: 150px;
+    margin: auto;
+    text-align: center;
+    font-size: 0.7cm;
+    font-family: verdana;
+    color: rgb(51, 51, 51);
+}
+.main5 p{
+    font-size:24px;
+    color: rgb(158, 156, 159);
+    width: 730px; ;
+    padding-bottom: 50px;
+}
+.i4{
+    height: 320px;
+    width: 670px;
+    padding-left: 0px;
+    margin: auto;
+    border-radius: 35px;
+}
+.main6{
+    width: 660px ;
+    margin: auto;
+    padding-top: 70px;
+    text-align: center;
+    font-size: 0.7cm;
+    font-family: verdana;
+    color: rgb(51, 51, 51);
+
+}
+.main6 p{
+    font-size:24px;
+    color: rgb(158, 156, 159); 
+    padding-bottom: 50px;
+}
+.i5{
+   margin: auto;
+   height: 300px;
+   width: 600px;
+   padding-left: 0px;
+   border-radius: 25px;
+}
+.main7{
+    width: 655px;
+    margin: auto;
+    padding-top: 60px;
+    text-align: center;
+    font-size: 0.7cm;
+    font-family: verdana;
+    color: rgb(51, 51, 51);
+}
+.main7 p{
+    font-size:24px;
+    color: rgb(158, 156, 159); 
+}
+.v2{
+    width: 655px;
+    border-radius: 60px;
+}
+.main8{
+    width: 770px;
+    margin: auto;
+    text-align: center;
+    font-size: 0.7cm;
+    padding-top: 80px;
+    font-family: verdana;
+    color: rgb(51, 51, 51);
+}
+.i6{
+    height: 600px;
+    width: 616px;
+    padding-bottom: 150px;
+}
+.parent9{
+    width: 1290px;
+    height: 720px;
+    border-radius: 40px ;
+    display: flex;
+    flex-direction: row;
+    margin: auto;   
+}
+.main9{
+    width: 50%;   
+}
+.main10{
+    width: 50%;
+    background-color: rgb(244, 231, 191);
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.d3{
+    height: 50%;
+    background-color: rgb(51, 51, 51);
+    font-size: 0.7cm;
+    font-family: verdana;
+    color: rgb(244, 231, 191);
+    text-align: left;
+    padding-left: 65px;
+    padding-top: 1px;
+    border-top-left-radius: 30px;
+}
+.d4{
+    height: 50%;  
+    border-bottom-left-radius: 30px;
+    
+}
+.i7{
+    padding-left: 0px;
+    padding-bottom: 0px;
+    height: 100%;
+    width: 100%;
+    border-bottom-left-radius: 30px;
+}
+.d5{
+    font-size: 15px;
+    font-family: verdana;
+    align-items: flex-start;
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 90px;
+    color: rgb(51, 51, 51);
+}
+.d5 p{
+    font-size: 20px; 
+    color: rgb(73, 73, 73);
+}
+.d6{
+    font-size: 15px;
+    font-family: verdana;
+    align-items: flex-start;
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 70px;
+    color: rgb(51, 51, 51);
+}
+.d6 p{
+    font-size: 20px; 
+    color: rgb(73, 73, 73);
+}
+    
+
+
+
+
+
+    
+
+
